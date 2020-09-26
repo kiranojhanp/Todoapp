@@ -1,0 +1,19 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "A simple todo api",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiranojhanp/Todoapp.git"
+  },
+  "author": "Kiran ojha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiranojhanp/Todoapp/issues"
+  },
+  "homepage": "https://github.com/kiranojhanp/Todoapp#readme"
+}
