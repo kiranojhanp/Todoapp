@@ -4,7 +4,8 @@
   "description": "A simple todo api",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/kiranojhanp/Todoapp/issues"
   },
-  "homepage": "https://github.com/kiranojhanp/Todoapp#readme"
+  "homepage": "https://github.com/kiranojhanp/Todoapp#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.7",
+    "nodemon": "^2.0.4",
+    "validator": "^13.1.17"
+  }
 }
